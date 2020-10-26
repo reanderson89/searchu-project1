@@ -1,7 +1,7 @@
 # **Search-U**
 
 ## **Live Link**
-[Search-U](https://gstephboli.github.io/searchu-project1/)
+[Search-U](https://reanderson89.github.io/searchu-project1/)
 
 ## **Contributors**
 * [Jennifer Funchess](https://github.com/JenniferFunchess)
